@@ -1,3 +1,6 @@
 *.pyc
 __pycache
 .DS_Store
+*.logs
+
+project/logs/celery.log
